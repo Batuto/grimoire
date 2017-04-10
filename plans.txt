@@ -1,0 +1,1 @@
+Show by examples how the --fixup and --amend works... I think is better fixup... show the world why.
