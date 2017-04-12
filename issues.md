@@ -2,14 +2,15 @@
 
 | Issue | Description                                                                                               | Status         | Needs review from    | PR   | Assigneees| PR STATUS    |
 | ---   | ---                                                                                                       | ---            | ---                  | ---  |    ---    |     ---      |
-| #170 | [10.0] l10n_pe_edi: Error 2147: El sistema de calculo del ISC es incorrecto  
-| #168 | [10.0] l10n_pe_edi: Incorrect term | Review required |  #174 | Osval |  Review required
-| #167 | Use a wsdl local file to have the services mapped   | Unsolved | | N/A | Osval | N/A |
-| #164  | [10.0] l10n_pe_edi: Test one case of each group of tests                                                  |                |                      | N/A  |           |              |
-| #163  | [10.0] l10n_pe_edi: error with SUNAT's XLS PriceTypeCode=02                                               |                |                      | N/A  |           |              |
-| #160  | [10.0] Cancelling an invoice                                                                              |                |                      | N/A  |           |              |
-| #159  | [10.0] l10n_pe_edi: Error with zip when a product has a price with value equal to zero.                   |                |  Osval               | N/A  |           |              |
-| #158  | List of Issues to read them easy and fast                                                                 |                |                      | N/A  |           |              |
+| #173  | [10.0] l10n_pe_edi: Error 2199: El sistema de calculo del ISC es incorrecto                               |   Unsolved     |                      | N/A  |           |   N/A        |
+| #172  | [10.0] l10n_pe_edi: Error 2425: Si la operacion es gratuita PriceTypeCode =02 y cbc:PriceAmount> 0 el codigo de afectacion de igv debe ser no onerosa es decir diferente de 10,20,30. |Unsolved||N/A||N/A|
+| #171  | [10.0] l10n_pe_edi: Error 1011: IssueDate- El dato ingresado no es valido                                 |   Unsolved     |                      | N/A  |           |   N/A        |           
+| #170 | [10.0] l10n_pe_edi: Error 2147: El sistema de calculo del ISC es incorrecto                                |   Unsolved     |                      | N/A  |           |   N/A        |               
+| #168 | [10.0] l10n_pe_edi: Incorrect term                                                                         | Closed         |      Osval           | #174 | Batuto    |   Merged     |
+| #167 | Use a wsdl local file to have the services mapped                                                          | Unsolved       |                      | N/A  |  Osval    | N/A          |
+| #164  | [10.0] l10n_pe_edi: Test one case of each group of tests                                                  |Review required |     Osval            | N/A  |  Batuto   |Review required|
+| #163  | [10.0] l10n_pe_edi: error with SUNAT's XLS PriceTypeCode=02                                               | Ready2Merge    |      Osval           | N/A  |  Osval    |      ?       |
+| #158  | List of Issues to read them easy and fast                                                                 |   WIP          |       ?              | N/A  |     ?     |      ?       |
 | #155  | [10.0] Include try-except to catch errors if exists when instantiating the WSDL Client                    |   WIP          |   Osval              | #162 |  umiphos  |     XXX      |
 | #153  | [10.0] l10n_pe_edi: Validar recepción de zip firmado de la SUNAT                                          |   Ready2Merge  |    Osval             | #157 |  Batuto   | Ready2Merge  |
 | #149  | [10.0] l10n_pe_edi: Add logic to generate signature from CER converting to PEM                            |   Being solved |                      |  ?   |  Osval    |      ?       |
